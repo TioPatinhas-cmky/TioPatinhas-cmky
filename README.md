@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TioPatinhas-cmky
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learning <p style="background-color: lightblue;">Html, CSS and JavaScript</p>
+- 🌱 I’m currently learning <a>Html, CSS and JavaScript</a>
 - 📫 How to reach me. Discord: Bray#4416
 
 <!---
