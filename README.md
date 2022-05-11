@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TioPatinhas-cmky
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learning <a>Html, CSS and JavaScript</a>
-- 📫 How to reach me. Discord: Bray#4416
+- 🌱 I’m currently learning Html, CSS and JavaScript
+- 📫 How to reach me. Discord: Bray#4416 or <a href="https://www.instagram.com/cybbrayan/">Instagram</a>
 
 <!---
 TioPatinhas-cmky/TioPatinhas-cmky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
