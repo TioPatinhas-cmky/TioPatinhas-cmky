@@ -7,6 +7,6 @@
 <ul><li>Python</li></ul>
 <img src="https://th.bing.com/th/id/R.a441c68bc79b7f7d9369f5a0475ac88c?rik=gLmkEDIpwG8U7g&pid=ImgRaw&r=0" alt="img">
 <h2>Contato</h2>
-- 📫 Discord: Bray#4416 ou <a title="Twitter @cybbrayan" href="https://twitter.com/cybbrayan">Twitter</a>
+<a title="Twitter @cybbrayan" href="https://twitter.com/cybbrayan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <h2>Meu instagram :)</h2>
 <a target="_blank" href="https://www.instagram.com/cybbrayan/" title="Instagram @cybbrayan">Instagram</a>
