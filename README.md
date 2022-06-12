@@ -1,6 +1,6 @@
 <h1 style="background-color:green;">Apresentação</h1>
 <h2>Informações</h2>
-- 👋 Oi, eu sou @TioPatinhas-cmky<br>
+- 👋 Oi, eu sou Brayan<br>
 - 👀 Eu estou interessado em criar websites<br>
 - 🌱 Estou estudando Html, CSS e JavaScript<br>
 <h2>Linguagem de programação fluente</h2>
