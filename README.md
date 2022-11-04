@@ -2,7 +2,6 @@
 <h2>Informações</h2>
 - Me chamo Brayan<br>
 - Para o futuro, desejo criar bots, automações, softwares e sites<br>
-- Estou estudando JavaScript<br>
 <h2>Curso 2/3 em Python</h2>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="img">
 <h2>Contato</h2>
